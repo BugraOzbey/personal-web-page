@@ -1,0 +1,35 @@
+const translations = {
+    "tr": {
+        "title": "Ahmet Buğra Özbey",
+        "profession": "Yazılım Mühendisi",
+        "linkedin": "LinkedIn",
+        "github": "GitHub",
+        "email": "E-mail",
+        "blogTitle": "Merhaba,",
+        "blogContent1": "Ben web geliştirme alanında özellikle backend ve veritabanı yönetimine odaklanan bir yazılım geliştiriciyim. API tasarımı, veri modelleme ve sistem mimarisi üzerine çalışmaktan keyif alıyorum. Frontend tarafında da temel düzeyde deneyimim ve kullanıcı arayüzlerine yönelik bir merakım var; bu alanda kendimi geliştirmeye devam ediyorum.",
+        "blogContent2": "Mobil uygulama ve oyun geliştirme alanlarında da proje bazlı tecrübelerim bulunuyor. Kod yazarken temiz kod prensiplerine, sürdürülebilir yapılar kurmaya ve teknik bütünlüğe önem veririm.",
+        "downloadCV": "Özgeçmişi İndir",
+    },
+    "en": {
+        "title": "Ahmet Buğra Özbey",
+        "profession": "Software Engineer",
+        "linkedin": "LinkedIn",
+        "github": "GitHub",
+        "email": "E-mail",
+        "blogTitle": "Hello,",
+        "blogContent1": "I am a software developer focused on web development, particularly backend and database management. I enjoy working on API design, data modeling, and system architecture. I also have basic experience in frontend development and a strong interest in user interfaces, which I continue to improve.",
+        "blogContent2": "I also have project-based experience in mobile application and game development. I value clean code principles, building sustainable structures, and maintaining technical integrity in every project I work on.",
+        "downloadCV": "Download CV",
+    },
+    "de": {
+        "title": "Ahmet Buğra Özbey",
+        "profession": "Softwareingenieur",
+        "linkedin": "LinkedIn",
+        "github": "GitHub",
+        "email": "E-Mail",
+        "blogTitle": "Hallo,",
+        "blogContent1": "Ich bin ein Softwareentwickler mit Schwerpunkt auf Webentwicklung, insbesondere im Bereich Backend und Datenbankverwaltung. Ich arbeite gerne an API-Design, Datenmodellierung und Systemarchitektur. Außerdem habe ich grundlegende Erfahrung in der Frontend-Entwicklung und ein starkes Interesse an Benutzeroberflächen, das ich kontinuierlich weiterentwickle.",
+        "blogContent2": "Zusätzlich habe ich projektbezogene Erfahrung in der Entwicklung von mobilen Anwendungen und Spielen. Bei meiner Arbeit lege ich großen Wert auf Clean Code-Prinzipien, nachhaltige Softwarestrukturen und technische Konsistenz.",
+        "downloadCV": "Lebenslauf herunterladen",
+    }
+};
