@@ -1,6 +1,6 @@
 const translations = {
     "tr": {
-        "title": "Ahmet Buğra Özbey",
+        "title": "Buğra Özbey",
         "profession": "Yazılım Mühendisi",
         "linkedin": "LinkedIn",
         "github": "GitHub",
@@ -11,7 +11,7 @@ const translations = {
         "downloadCV": "Özgeçmişi İndir",
     },
     "en": {
-        "title": "Ahmet Buğra Özbey",
+        "title": "Buğra Özbey",
         "profession": "Software Engineer",
         "linkedin": "LinkedIn",
         "github": "GitHub",
@@ -22,7 +22,7 @@ const translations = {
         "downloadCV": "Download CV",
     },
     "de": {
-        "title": "Ahmet Buğra Özbey",
+        "title": "Buğra Özbey",
         "profession": "Softwareingenieur",
         "linkedin": "LinkedIn",
         "github": "GitHub",
